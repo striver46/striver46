@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @striver46
-- 👀 I’m interested in coding and creating games
-- 🌱 I’m currently learning  Web Develepment ( Full Stack )
+- 👋 Hi, I’m Aman Nakhate 
+- 👀 I’m interested in Analytics and Machine Learning
+- 🌱 I’m currently working as Freelance Data Scientist 
 - 💞️ I’m looking to collaborate on Open source
 
 <!---

@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Aman Nakhate 
-- 👀 I’m interested in Analytics and Machine Learning
 - 🌱 I’m currently working as Freelance Data Engineer  
 - 💞️ I’m looking to collaborate on Open source
 

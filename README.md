@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aman Nakhate 
-- 🌱 I’m currently working as Freelance Data Engineer  
+- 🌱 I’m currently working as Freelance Analytics Engineer  
 - 💞️ I’m looking to collaborate on Open source
 
 <!---
